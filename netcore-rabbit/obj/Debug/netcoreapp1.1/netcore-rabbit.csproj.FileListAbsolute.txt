@@ -1,0 +1,8 @@
+/Users/pivotal/workspace/netcore-rabbit/netcore-rabbit/bin/Debug/netcoreapp1.1/netcore-rabbit.deps.json
+/Users/pivotal/workspace/netcore-rabbit/netcore-rabbit/bin/Debug/netcoreapp1.1/netcore-rabbit.runtimeconfig.json
+/Users/pivotal/workspace/netcore-rabbit/netcore-rabbit/bin/Debug/netcoreapp1.1/netcore-rabbit.runtimeconfig.dev.json
+/Users/pivotal/workspace/netcore-rabbit/netcore-rabbit/bin/Debug/netcoreapp1.1/netcore-rabbit.dll
+/Users/pivotal/workspace/netcore-rabbit/netcore-rabbit/bin/Debug/netcoreapp1.1/obj/Debug/netcoreapp1.1/netcore-rabbit.pdb
+/Users/pivotal/workspace/netcore-rabbit/netcore-rabbit/obj/Debug/netcoreapp1.1/netcore-rabbit.AssemblyInfo.cs
+/Users/pivotal/workspace/netcore-rabbit/netcore-rabbit/obj/Debug/netcoreapp1.1/netcore-rabbit.dll
+/Users/pivotal/workspace/netcore-rabbit/netcore-rabbit/obj/Debug/netcoreapp1.1/netcore-rabbit.pdb
